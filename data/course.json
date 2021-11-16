@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "International Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e6ebbbde-5b31-8d00-8648-45bfcb534c29"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Principles of Macroeconomics",
+  "course_description": "This course provides an overview of the following macroeconomic issues: the determination of output, employment, unemployment, interest rates, and inflation. Monetary and fiscal policies are discussed, as are public debt and international economic issues. This course also introduces basic models of macroeconomics and illustrates principles with the experience of the United States and other economies.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.02",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
